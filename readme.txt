@@ -1,3 +1,3 @@
 Initialized empty Git repo.
-Try to push repo to github again.
+Create a new branch: dev.
 
